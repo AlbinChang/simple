@@ -5,25 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7d1779f-7d27-402f-8c49-cb137864eaa9" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/$PROJECT_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sequence-demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sequence-demo/src/main/java/spring/simple/demo/DemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sequence-demo/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sequence/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sequence/src/main/java/spring/simple/sequence/config/SequenceAutoConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sequence/src/main/java/spring/simple/sequence/model/SeqRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sequence/src/main/java/spring/simple/sequence/service/SeqService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sequence/src/main/resources/META-INF/spring.factories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sequence/src/main/resources/ReadMe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sequence/src/main/resources/ddl.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sequence/src/main/resources/dml.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sequence/src/main/resources/设计文档.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

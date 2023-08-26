@@ -48,9 +48,12 @@ public class SeqService {
 
     private String getNextSeq()
     {
-         if( seq.get() >= 10000 )
+
+         int temp = seq.get();
+         if( temp >= 10000 )
          {
-            seq.set(0);
+            //防止多次重置为 0
+            seq.compareAndSet( temp , 0  );
          }
 
         return StrUtil.padPre(  String.valueOf( seq.incrementAndGet())  , 4, "0" );

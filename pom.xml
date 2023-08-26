@@ -10,9 +10,9 @@
         <version>2021.0.5.0</version>
     </parent>
 
-    <groupId>spring.simple</groupId>
+    <groupId>io.github.albinchang</groupId>
     <artifactId>parent</artifactId>
-    <version>2023.08.26</version>
+    <version>2023.08.27</version>
     <packaging>pom</packaging>
     <modules>
         <module>sequence</module>
@@ -27,6 +27,9 @@
         <guava.version>32.1.2-jre</guava.version>
         <cn.hutool.version>5.8.20</cn.hutool.version>
         <mysql.version>8.0.33</mysql.version>
+
+        <maven.test.skip>true</maven.test.skip>
+<!--        <maven.javadoc.skip>true</maven.javadoc.skip>-->
     </properties>
 
     <dependencyManagement>

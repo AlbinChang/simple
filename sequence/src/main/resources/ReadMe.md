@@ -11,6 +11,7 @@ spring.simple.sequence.service.SeqService.getNextNumber
 # demo
 
 参考 sequence-demo 模块
+https://github.com/AlbinChang/simple/tree/master/sequence-demo
 
 # 兼容性
 

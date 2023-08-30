@@ -12,7 +12,7 @@
 
     <groupId>io.github.albinchang</groupId>
     <artifactId>parent</artifactId>
-    <version>2023.08.27</version>
+    <version>2023.08.28</version>
     <packaging>pom</packaging>
     <modules>
         <module>sequence</module>
